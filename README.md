@@ -1,6 +1,6 @@
 # AgenticAI-FHIR
 
-Sample Agentic AI project demonstrating a simple LangChain agent that exposes a placeholder FHIR lookup tool.
+![CI](https://github.com/naveenambroise/AgenticAI-FHIR/actions/workflows/ci.yml/badge.svg)
 
 Run (PowerShell):
 
